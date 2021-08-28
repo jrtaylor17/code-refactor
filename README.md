@@ -1,1 +1,1 @@
-I was to clean up the code so that things were in sequential order as well as make sure it was more accessible by adding alt attributes where needed. I also had to make sure the elements made sense in their structure.
+I was to clean up the code so that things were in sequential order as well as make sure it was more accessible by adding alt attributes where needed. I also had to make sure the elements made sense in their structure. All of this was done to make the site meet accessibility standards to make the site better optimized for search engines.
